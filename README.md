@@ -6,9 +6,9 @@ The objective of this Online Voting System is to provide a simple and user-frien
 
 **Technologies Used:**
 
-Java Programming Language: The core programming language used to develop the application, known for its portability, robustness, and extensive libraries.
+**Java Programming Language:** The core programming language used to develop the application, known for its portability, robustness, and extensive libraries.
 
-Java Swing Library: A part of Java Foundation Classes (JFC), Swing is used to create the graphical user interface (GUI) components such as frames, buttons, labels, and text fields.
+**Java Swing Library:** A part of Java Foundation Classes (JFC), Swing is used to create the graphical user interface (GUI) components such as frames, buttons, labels, and text fields.
 
 **Application Overview:**
 
